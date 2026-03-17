@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --add-data "typing;typing" --add-data "mouse;mouse" --add-data "special;special" input_sound.py
