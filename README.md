@@ -1,5 +1,5 @@
 # soundbox
-Interactive sound system for YouTube livestream – @Bhatia3D
+Interactive sound system for YouTube livestream – Bhatia3D
 
 - run app through disk => input_sound.py
 
