@@ -1,4 +1,4 @@
-('C:\\Users\\polyd\\OneDrive\\Desktop\\soundbox\\input_sounds_v_07\\build\\input_sound\\PYZ-00.pyz',
+('C:\\Users\\polyd\\OneDrive\\Desktop\\softiles\\soundbox\\build\\input_sound\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\polyd\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\__future__.py',
    'PYMODULE'),
